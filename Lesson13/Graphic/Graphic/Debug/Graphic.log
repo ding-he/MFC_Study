@@ -1,0 +1,28 @@
+﻿生成启动时间为 2019/4/22 19:29:46。
+     1>项目“E:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson13\Graphic\Graphic\Graphic.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Graphic.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>d:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 d:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Graphic.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Graph.cpp Graphic.cpp GraphicDoc.cpp GraphicView.cpp MainFrm.cpp
+         正在跳过...(未检测到相关更改)
+         MainFrm.cpp
+         GraphicView.cpp
+         GraphicDoc.cpp
+         Graphic.cpp
+         Graph.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson13\Graphic\Debug\Graphic.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson13\Graphic\Debug\Graphic.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson13\Graphic\Debug\Graphic.lib" /MACHINE:X86 Debug\Graphic.res
+         Debug\Graph.obj
+         Debug\Graphic.obj
+         Debug\GraphicDoc.obj
+         Debug\GraphicView.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Graphic.vcxproj -> E:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson13\Graphic\Debug\Graphic.exe
+     1>已完成生成项目“E:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson13\Graphic\Graphic\Graphic.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.42

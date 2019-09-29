@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/2/3 23:35:18。
+     1>项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson09\Lesson09\Lesson09.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Lesson09.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp
+         MainFrm.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson09\Debug\Lesson09.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson09\Debug\Lesson09.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson09\Debug\Lesson09.lib" /MACHINE:X86 Debug\Lesson09.res
+         Debug\Lesson09.obj
+         Debug\Lesson09Doc.obj
+         Debug\Lesson09View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Lesson09.vcxproj -> e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson09\Debug\Lesson09.exe
+     1>已完成生成项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson09\Lesson09\Lesson09.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.19

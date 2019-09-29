@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/2/14 13:48:13。
+     1>项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson19\DllTest\DllTest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DllTest.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DllTestDlg.cpp
+         DllTestDlg.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson19\Dll1\Debug\DllTest.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson19\Dll1\Debug\DllTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson19\Dll1\Debug\DllTest.lib" /MACHINE:X86 Debug\DllTest.res
+         Debug\DllTest.obj
+         Debug\DllTestDlg.obj
+         Debug\stdafx.obj
+         DllTest.vcxproj -> e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson19\Dll1\Debug\DllTest.exe
+     1>已完成生成项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson19\DllTest\DllTest.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.50

@@ -1,0 +1,33 @@
+﻿生成启动时间为 2018/2/1 23:31:34。
+     1>项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_Prop\Lesson08_Prop\Lesson08_Prop.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Lesson08_Prop.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lesson08_Prop.cpp Lesson08_PropView.cpp Prop1.cpp Prop2.cpp Prop3.cpp PropSheet.cpp
+         Prop3.cpp
+         Lesson08_PropView.cpp
+         正在生成代码...
+         正在编译...
+         PropSheet.cpp
+         Prop2.cpp
+         Prop1.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         Lesson08_Prop.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Lesson08_Prop.res" Lesson08_Prop.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_Prop\Debug\Lesson08_Prop.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_Prop\Debug\Lesson08_Prop.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_Prop\Debug\Lesson08_Prop.lib" /MACHINE:X86 Debug\Lesson08_Prop.res
+         Debug\Lesson08_Prop.obj
+         Debug\Lesson08_PropDoc.obj
+         Debug\Lesson08_PropView.obj
+         Debug\MainFrm.obj
+         Debug\Prop1.obj
+         Debug\Prop2.obj
+         Debug\Prop3.obj
+         Debug\PropSheet.obj
+         Debug\stdafx.obj
+         Lesson08_Prop.vcxproj -> e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_Prop\Debug\Lesson08_Prop.exe
+     1>已完成生成项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_Prop\Lesson08_Prop\Lesson08_Prop.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.30

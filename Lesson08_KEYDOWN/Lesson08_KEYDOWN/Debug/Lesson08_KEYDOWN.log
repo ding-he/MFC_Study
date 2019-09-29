@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/2/1 23:55:14。
+     1>项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_KEYDOWN\Lesson08_KEYDOWN\Lesson08_KEYDOWN.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Lesson08_KEYDOWN.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lesson08_KEYDOWN.cpp Lesson08_KEYDOWNDlg.cpp
+         Lesson08_KEYDOWNDlg.cpp
+         Lesson08_KEYDOWN.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_KEYDOWN\Debug\Lesson08_KEYDOWN.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_KEYDOWN\Debug\Lesson08_KEYDOWN.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_KEYDOWN\Debug\Lesson08_KEYDOWN.lib" /MACHINE:X86 Debug\Lesson08_KEYDOWN.res
+         Debug\Lesson08_KEYDOWN.obj
+         Debug\Lesson08_KEYDOWNDlg.obj
+         Debug\stdafx.obj
+         Lesson08_KEYDOWN.vcxproj -> e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_KEYDOWN\Debug\Lesson08_KEYDOWN.exe
+     1>已完成生成项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson08_KEYDOWN\Lesson08_KEYDOWN\Lesson08_KEYDOWN.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.47

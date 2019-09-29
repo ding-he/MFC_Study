@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/2/10 0:10:30。
+     1>项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson12\File\File\File.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\File.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FileView.cpp
+         FileView.cpp
+     1>e:\documents\visual studio 2013\projects\vclesson\lesson12\file\file\fileview.cpp(170): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson12\File\Debug\File.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson12\File\Debug\File.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson12\File\Debug\File.lib" /MACHINE:X86 Debug\File.res
+         Debug\File.obj
+         Debug\FileDoc.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         File.vcxproj -> e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson12\File\Debug\File.exe
+     1>已完成生成项目“e:\Documents\Visual Studio 2013\Projects\VCLesson\Lesson12\File\File\File.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.75
